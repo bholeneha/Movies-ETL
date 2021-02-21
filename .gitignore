@@ -1,8 +1,10 @@
 config.py
 
-Module Work
+Module Work/
 
-.ipynb_checkpoints
+.ipynb_checkpoints/
 
-_pycache_
+_pycache_/
+
+
 
